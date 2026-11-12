@@ -54,5 +54,7 @@ The landing page describes the framework and links to each transformation area f
 - [Construction and Materials: CEO Priorities and Decarbonisation Levers](construction-materials-ceo-priorities.md) — industry priorities that Singapore's decarbonisation and productivity agenda responds to.
 - [Smart Facilities Management: Integrated, Aggregated and Smart FM](smart-facilities-management.md) — the operating model and five-step process behind the ITM's Integrated, Aggregated and Smart Facilities Management agenda.
 - [Integrated Digital Delivery (IDD)](integrated-digital-delivery.md) — the digital delivery approach connecting design, fabrication, construction and asset management.
+- [AI Adoption and Governance in the Built Environment](ai-adoption-in-the-built-environment.md) — readiness, investment capacity and governance constraints on the ITM's digitalisation agenda.
+- [Data Readiness for AI in Construction](data-readiness-for-ai-in-construction.md) — why standardised project data is the precondition for AI and IDD benefits.
 - [AI in the Built Environment](ai-in-the-built-environment.md) — practical AI use cases across design, construction and facilities management.
 - [AI Adoption and Governance in the Built Environment](ai-adoption-in-the-built-environment.md) — the readiness, data and governance constraints on turning AI use cases into adoption.

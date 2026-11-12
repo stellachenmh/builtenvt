@@ -1,14 +1,16 @@
 # AI Adoption and Governance in the Built Environment
 
-> Sources: Pinsent Masons, "The challenge of AI adoption in the built environment sector", 31 October 2025; Pinsent Masons, "AI adoption in built environment 'requires mindset shift'", 15 October 2025
-> Raw: [The challenge of AI adoption in the built environment sector](../../raw/built-environment/2025-10-31-ai-adoption-challenge-built-environment.md); [AI adoption in built environment 'requires mindset shift'](../../raw/built-environment/2025-10-15-ai-adoption-mindset-shift.md)
-> Updated: 2026-11-10
+> Sources: Pinsent Masons, "The challenge of AI adoption in the built environment sector", 31 October 2025; Pinsent Masons, "AI adoption in built environment 'requires mindset shift'", 15 October 2025; Pinsent Masons, "Singapore's AI construction boom faces data and governance challenges", 13 May 2026; Avtandil Mekudishvili, "Delaying AI investment could become construction's most expensive decision", *Singapore Business Review*, 10 August 2026
+> Raw: [The challenge of AI adoption in the built environment sector](../../raw/built-environment/2025-10-31-ai-adoption-challenge-built-environment.md); [AI adoption in built environment 'requires mindset shift'](../../raw/built-environment/2025-10-15-ai-adoption-mindset-shift.md); [Singapore's AI construction boom faces data and governance challenges](../../raw/built-environment/2026-05-13-singapore-ai-data-governance.md); [Delaying AI investment could become construction's most expensive decision](../../raw/built-environment/2026-08-10-delaying-ai-investment-construction.md)
+> Updated: 2026-11-11
 
 ## Overview
 
 A global survey and a London roundtable run by Pinsent Masons with Bentley Systems, Mott MacDonald and Turner & Townsend found that the built environment sector sees AI as transformative but is not yet organised to adopt it at scale. The survey ran between February and June 2025 and drew **86 respondents**, **75%** of them at c-suite or board level, primarily from the UK, North America and Australia, with some responses from Europe, Asia, the Middle East and Africa. The roundtable in early October brought together **40** leaders and senior executives from government, investment, legal, technology, project and cost management, engineering design, contracting, client and developer organisations.
 
 The consensus was that AI would initially have an incremental impact, with significant disruption expected once its benefits are more widely felt. The analysis is blunt about what has to change: the sector needs significant investment to move from a siloed, fragmented model to a more integrated, digital and data-driven one.
+
+Two later sources sharpen the picture. A Pinsent Masons roundtable in Singapore (May 2026) found that the city-state's unusually developed AI policy framework is not matched by construction-specific data, clear project controls or digital literacy. A *Singapore Business Review* commentary (August 2026) reframes the investment question: with BCA forecasting construction demand of between **$47b and $53b** in 2026, delaying AI investment may be the more expensive decision.
 
 > Significant levels of investment will be needed to change a siloed and heavily fragmented industry to a more integrated, modern, digital and data-driven business model.
 
@@ -75,6 +77,29 @@ A risk-averse industry is wary of data security, model bias and trust. Operation
 
 AI literacy and leadership are described as critical. Successful projects require investment in people, workforce and skills to create an AI-ready organisation.
 
+## The cost of delay
+
+The Singapore Business Review commentary by Avtandil Mekudishvili argues that the investment question is often framed wrongly. Firms treat AI as an expense that can wait while inflation, financing costs and tight margins dominate. The counter-argument is that waiting is itself a decision with a cost, because projects are becoming larger, more complex and more data-intensive.
+
+The supporting evidence it cites:
+
+- **31%** of Singapore construction firms cite implementation cost as a barrier to AI, compared with a **15%** global average.
+- Singapore's inaugural national report on AI adoption found that more than **70%** of firms have yet to adopt AI, with only a small proportion integrating it into core business processes.
+- Among firms already using AI, over **70%** reported improvements in worker productivity.
+- BCA forecasts construction demand of between **$47b and $53b** in 2026, alongside government pressure to improve productivity through digitalisation, robotics and Integrated Digital Delivery.
+
+The commentary's warning is that construction has been here before. Over the past two decades it adopted many digital tools that promised productivity but added complexity because they operated independently of existing workflows. Teams maintained duplicate information across systems, increasing administration instead of reducing it. AI carries the same risk if it is layered on top of broken processes.
+
+Its prescription is process-first:
+
+1. **Find the bottleneck before the platform.** Ask where time is actually lost — searching for project information, recreating documents, coordinating updates, compiling data before decisions — and only then select technology.
+2. **Redesign end-to-end workflows.** It cites McKinsey's argument that the next wave of AI value in architecture, engineering and construction comes less from isolated tools than from redesigning complete workflows.
+3. **Measure business outcomes, not tool counts.** Does the investment shorten delivery, improve decision quality, reduce avoidable administration, improve cost certainty, and is the improvement measurable over time?
+4. **Prioritise high-frequency work.** Administrative coordination, document-intensive processes, information retrieval and project communication consume thousands of hours per project. Small gains there usually beat automating niche technical tasks.
+5. **Fund organisational readiness.** Leadership commitment, workforce capability and defined processes matter as much as software; budget should cover change management, training and governance.
+
+The commentary does not dispute that cost is a real constraint. Its argument is that focusing only on upfront expenditure risks overlooking the longer-term operational cost of maintaining inefficient workflows as complexity rises.
+
 ## Risks and governance
 
 The survey found a governance gap that sits awkwardly beside the sector's safety responsibilities.
@@ -100,6 +125,33 @@ Robinson's prescription is a combination of model validation, peer review of AI-
 > Without adequate governance and project controls, AI mistakes could pose safety risks or legal liabilities.
 
 He also suggested regulators may need to update guidelines to cover AI-assisted engineering.
+
+## Singapore: policy strength, data and governance gaps
+
+A second Pinsent Masons roundtable, held in Singapore and reported in May 2026 by Frédéric Gillion and Graham Robinson, examined a country with one of the most advanced AI legal and policy frameworks in the world. The finding was that policy leadership has not removed the practical barriers.
+
+### The regulatory timeline
+
+Singapore has taken a largely "soft law" approach, publishing frameworks and guidance for voluntary compliance:
+
+- **2019** — first model AI governance framework, addressing ethical and governance issues in AI deployment.
+- **2020** — framework updated.
+- **May 2024** — model AI governance framework for generative AI released.
+- **January 2026** — a model AI governance framework for agentic AI, described as a world first, covering systems capable of autonomously planning, reasoning and acting to achieve objectives.
+
+The government has also established a National AI Council to centralise and accelerate research and development, testing, deployment and scaling of AI solutions.
+
+Labour policy is being adjusted in parallel. A new, longer work permit for AI and technology professionals takes effect from **January 2027**, with a **five-year** duration rather than the **two-year** span of the old tech pass, aligning it with broader work permits for other high-salary workers.
+
+### What the roundtable found
+
+- **Data access is the binding constraint.** Despite the presence of major technology providers, there is a distinct lack of construction-specific data. Firms hold valuable data but are reluctant to share it for confidentiality reasons, and even larger firms do not hold enough data globally for meaningful testing and training. See [Data Readiness for AI in Construction](data-readiness-for-ai-in-construction.md).
+- **BIM is being confused with AI.** BIM and advanced project management tools have been used for years to prevent design clashes, but they predate generative AI tools that learn from data and improve processes in real time.
+- **Governance processes are still unclear.** There is a need for clearer processes to control and oversee AI use across projects and supply chains. Construction is safety-critical, and a lack of digital literacy makes change as difficult in Singapore as anywhere else.
+- **Data quality, sharing, accountability, contractual risk allocation and intellectual property cannot be afterthoughts.** Clear governance, including project controls for AI-related design and construction risk, is described as essential.
+- **Insurers are currently neutral.** Roundtable participants noted that errors exist whether a design is produced by humans or by AI. Some suggested AI could improve risk assessment and pricing because insurers hold large datasets and could identify issues earlier, potentially reducing rather than increasing liability.
+
+The roundtable's conclusion is that adoption must remain human-centred. Engineers, architects, contractors, owners and advisors continue to exercise judgment, experience and professional responsibility. AI is framed as a tool that supports safer projects, more sustainable assets and fewer disputes — not an end in itself.
 
 ## Opportunities
 
@@ -141,9 +193,14 @@ The survey is a senior-level, self-reported snapshot rather than a measure of re
 
 That gap is the practical agenda. AI use cases are relatively easy to describe; the constraints are investment capacity, fragmented data, supply-chain discontinuity, governance and skills.
 
+The evidence base is also uneven. The global survey is quantitative but senior and self-reported; the London and Singapore roundtables are qualitative convenings; the *Singapore Business Review* piece is an argument about investment timing rather than new measurement. Its **31%** and **15%** cost-barrier figures and the **70%** non-adoption figure are survey findings it cites, not original research.
+
 ## See Also
 
+- [AI Adoption Risks in the Built Environment](ai-adoption-risks-in-the-built-environment.md) — quantitative evidence on which adoption risks are biggest: skills, data quality, governance, ROI failure and the newer risks around leakage, hallucination and liability.
 - [AI in the Built Environment](ai-in-the-built-environment.md) — BCA's five AI use-case families and the digital foundations they depend on.
+- [Data Readiness for AI in Construction](data-readiness-for-ai-in-construction.md) — why construction data is hard for AI to use, and the disciplines that fix it.
 - [Integrated Digital Delivery (IDD)](integrated-digital-delivery.md) — the BIM, data-exchange and competency agenda that supports AI adoption.
 - [Smart Facilities Management: Integrated, Aggregated and Smart FM](smart-facilities-management.md) — data management, interoperability and predictive maintenance in building operations.
 - [Built Environment Industry Transformation Map (ITM)](built-environment-industry-transformation-map.md) — Singapore's policy framework for digitalisation, productivity and workforce transformation.
+- [AI in Building Maintenance: Nine Use Cases Beyond Predictive Maintenance](ai-in-maintenance-use-cases.md) — adoption evidence from IFMA and ASHB, and the maintenance use cases where deployment is actually happening.

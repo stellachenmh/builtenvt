@@ -72,3 +72,4 @@ The Wave, a sports hall at Nanyang Technological University, is the first large-
 - [Singapore's Skyscraper Demolitions and Embodied Carbon](singapore-skyscraper-demolitions-embodied-carbon.md) — why young towers come down, and the carbon case for adaptive reuse.
 - [Construction and Materials: CEO Priorities and Decarbonisation Levers](construction-materials-ceo-priorities.md) — global CEO survey on low-carbon materials, circular components and workforce capability.
 - [AI in the Built Environment](ai-in-the-built-environment.md) — AI and digital tools as the next layer of technology response across design, construction and operations.
+- [Digital Twin and AI-Enabled Predictive Maintenance in the Building Industry](digital-twin-predictive-maintenance.md) — predictive maintenance as a response to labour scarcity and ageing building stock, and the human factors it still neglects.

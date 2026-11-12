@@ -1,8 +1,8 @@
 # Smart Facilities Management: Integrated, Aggregated and Smart FM
 
-> Sources: Building and Construction Authority (BCA), *Guide to Smart FM*, version 2.2, 31 July 2026
-> Raw: [Guide to Smart FM (v2.2, 31 July 2026)](../../raw/built-environment/2026-07-31-guide-to-smart-fm.md)
-> Updated: 2026-11-10
+> Sources: Building and Construction Authority (BCA), *Guide to Smart FM*, version 2.2, 31 July 2026; Claudia Lim and Calvin Yang, "More buildings putting in AI, smart sensors to manage utilities, cut costs", Channel NewsAsia, 18 July 2023
+> Raw: [Guide to Smart FM (v2.2, 31 July 2026)](../../raw/built-environment/2026-07-31-guide-to-smart-fm.md); [CNA, 18 July 2023](../../raw/built-environment/2023-07-18-smart-fm-adoption-singapore-cna.md)
+> Updated: 2026-11-12
 
 ## Overview
 
@@ -289,7 +289,34 @@ The savings were concentrated when the office was unoccupied. Overnight, plug-lo
 
 Ecovolt reports that customers typically see a payback period under 2 years, including CAPEX and OPEX, because the solution requires no additional cabling, wiring or trunking.
 
-## What the Guide adds up to
+## Adoption in practice: The Floravale and Fu Yu (2023)
+
+The Guide's cases are a portfolio and a Grade A office, both run by established players. Reporting by Channel NewsAsia in July 2023 shows the same shift at two much smaller sites — a 754-unit condominium and a plastic-products manufacturer — and supplies the site-level economics that the policy documents leave out. It is a market snapshot, not an evaluation: no measurement method, baseline or audited outcome is stated, and every saving is self-reported by the operator or the vendor.
+
+| | **The Floravale** | **Fu Yu Corporation** |
+|---|---|---|
+| Type | 754-unit condominium, Westwood Avenue | Plastic-products manufacturer, six plants in Asia |
+| Vendor | Qornerstone | Cerexio |
+| What it does | QR-code gantry entry with online pre-registration, resident payments, maintenance issue reporting, planned pool water-quality sensors | Real-time room temperature monitoring, remote light switching, data and finance operations |
+| Reported outcome | One security officer post removed at almost S$5,000/month, or S$50,000–60,000 a year; management team of five for the whole property | About a third of total man hours saved; support for a 30% energy-reduction pledge |
+
+At The Floravale, the trigger was administrative rather than strategic. The managing agent, Teo Poh Siang, said the condominium "went digital about two years ago, as the paperwork started to mount" — that is, around 2021. Visitors now pre-register online and scan a QR code at the gantry instead of signing in at the guardhouse. The maintenance-relevant part is quieter: residents flag faults through the same application, replacing phone calls and paper forms with a logged ticket.
+
+Qornerstone's chief executive, Ernest Ong, framed the driver in the same terms as the Guide's structural argument: "The built environment has always been a manpower-intensive industry... due to cost pressure, that is where the industry has no choice but to look into transformation by technology means."
+
+At Fu Yu, the reported saving is larger but less specific — "about a third of its total man hours", with no baseline, period or plant-level breakdown. Group chief executive David Seow tied the deployment to a 30% energy-reduction pledge covering raw-material wastage, water and electricity across six plants.
+
+**What the two cases actually show**
+
+1. **The quantified saving is a headcount, not a model.** The Floravale's S$50,000–60,000 a year comes from removing one security post through QR visitor management. In the Guide's typology that is Type 1 digitalised workflow automation, with no machine learning involved. The article's "AI" framing is looser than the deployment.
+2. **The S$5,000-a-month unit cost is the most transferable number in the piece.** It is a usable anchor for converting FM labour saved into dollars, which most Smart FM business cases leave implicit.
+3. **The adoption sequence matches digiHUB.** Visitor management, payments, complaint intake and ticketing produce measurable results before anything predictive does. The Floravale has no predictive maintenance; it has a digital front door and a ticket log.
+4. **Headcount savings are not automatically net savings.** A removed post saves S$50,000–60,000 a year only if the work is not redeployed or backfilled elsewhere. The article does not say which happened.
+5. **This is a market signal, not a sample.** Two sites, two vendors, one unattributed claim that take-up at "at least one" FM application developer rose by a third year on year.
+
+It also names the two drivers that vendors still use to sell Smart FM in Singapore: the net zero by 2050 target, and the availability of government grants for digitalisation.
+
+## What the evidence adds up to
 
 - **Smart FM is an operating model, not a product.** The definition combines systems, processes, technologies and personnel, and the Guide repeatedly returns to process and people as the constraints on technology value.
 - **Integration and aggregation are distinct but linked.** Integration bundles services; aggregation pools demand and resources. Both are needed to make outcome-based IFM and AFM contracts work.
@@ -297,7 +324,8 @@ Ecovolt reports that customers typically see a payback period under 2 years, inc
 - **Contract design determines technology adoption.** Longer outcome-based contracts — at least three years plus a three-year extension, and five to ten years in some public agencies — give providers the certainty to invest.
 - **Data management is the bottleneck for Type 3.** Open protocols, a CDE, common metadata schemas and cybersecurity are the preconditions for integration across systems.
 - **The workforce is the delivery mechanism.** The Guide maps digital skills to roles and warns against a one-size-fits-all training approach.
-- **The case studies show the range.** CBM's digiHUB demonstrates a portfolio-scale integrated ecosystem with measurable productivity and cost outcomes; Ecovolt demonstrates a narrow, non-intrusive intervention with measured energy and carbon savings.
+- **The case studies show the range.** CBM's digiHUB demonstrates a portfolio-scale integrated ecosystem with measurable productivity and cost outcomes; Ecovolt demonstrates a narrow, non-intrusive intervention with measured energy and carbon savings; The Floravale and Fu Yu show the same pattern at condominium and factory scale, where the quantified win is a removed security post at about S$5,000 a month rather than a prediction.
+- **Measurable value arrives before prediction does.** In every Singapore case here, the first defensible numbers come from workflow automation — ticketing, visitor management, payments, complaint intake — not from machine learning. Predictive maintenance is the ambition; Type 1 automation is what funds it.
 
 ## See Also
 
@@ -307,4 +335,7 @@ Ecovolt reports that customers typically see a payback period under 2 years, inc
 - [Singapore's Skyscraper Demolitions and Embodied Carbon](singapore-skyscraper-demolitions-embodied-carbon.md) — whole-life carbon, adaptive reuse and the operational case for keeping buildings in use.
 - [Integrated Digital Delivery (IDD)](integrated-digital-delivery.md) — how digital design, fabrication and construction information carries into asset management.
 - [AI in the Built Environment](ai-in-the-built-environment.md) — AI use cases for maintenance, inspections, documentation and building operations.
+- [Digital Twin and AI-Enabled Predictive Maintenance in the Building Industry](digital-twin-predictive-maintenance.md) — the Six M framework, a 122-paper PdM review, and two label-efficient failure-prediction methods with Singapore indoor-climate evidence.
+- [AI in Building Maintenance: Nine Use Cases Beyond Predictive Maintenance](ai-in-maintenance-use-cases.md) — the four maintenance jobs and nine use cases, including the digiHUB and Schindler Ahead figures, with the evidence tiers that bound them.
 - [AI Adoption and Governance in the Built Environment](ai-adoption-in-the-built-environment.md) — the data quality, skills and governance constraints on adopting AI in operations.
+- [Data Readiness for AI in Construction](data-readiness-for-ai-in-construction.md) — why sensor, asset and project data must be standardised before analytics can be trusted.

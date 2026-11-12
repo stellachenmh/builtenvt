@@ -1,8 +1,8 @@
 # Integrated Digital Delivery (IDD)
 
-> Sources: Building and Construction Authority (BCA), "Integrated Digital Delivery (IDD)", last updated 16 March 2026
-> Raw: [Integrated Digital Delivery (IDD)](../../raw/built-environment/2026-03-16-integrated-digital-delivery.md)
-> Updated: 2026-11-10
+> Sources: Building and Construction Authority (BCA), "Integrated Digital Delivery (IDD)", last updated 16 March 2026; NUS-ISS, "How AI is Transforming Workflows in Built Environments", 5 March 2024
+> Raw: [Integrated Digital Delivery (IDD)](../../raw/built-environment/2026-03-16-integrated-digital-delivery.md); [How AI is Transforming Workflows in Built Environments](../../raw/built-environment/2024-03-05-ai-transforming-workflows-built-environment.md)
+> Updated: 2026-11-11
 
 ## Overview
 
@@ -83,9 +83,26 @@ The IDD page makes a small number of claims with large implications:
 - **Procurement is a lever.** The IDD Requirements Guide is designed to help clients write IDD requirements into tender documents, covering use cases, roles and deliverables.
 - **Foundations matter.** Quality BIM models, structured data exchange and digital competency are treated as prerequisites for successful IDD.
 
+## Hidden costs and workflow change
+
+NUS-ISS adds a practitioner's caution to the policy case. Mr Chua Kiong Kiat describes IDD as using digital technologies to integrate work processes and connect stakeholders throughout the construction and building life cycle — covering design, fabrication and assembly on site, and the operations and maintenance of buildings. He accepts the benefits, from operational efficiency to worker safety, but argues it is "also crucial to acknowledge the hidden costs and unique challenges that come with it."
+
+Those costs fall into three areas:
+
+- **Investment beyond technology.** Embracing BIM and AI requires spending on training and infrastructure, not just software, plus "a fundamental shift in mindset."
+- **Workflow overhaul.** Most planning and iteration-related workflows shift into the earlier design phase. The claimed payoff is lower safety risk and fewer costly fixes, because potential issues are resolved in the model before construction.
+- **Siloed data models.** Different parties use different digital models, and for the same project the information needed by architects differs from that needed by structural engineers. Collaboration across stakeholders is a requirement, not a by-product of buying the same software.
+
+Chua also warns against reading too much into technology demonstrations. Publicity about industrial robots that assemble brick walls does not reflect the complexity contractors face on real construction sites, because controlled trial environments are not representative.
+
+This is consistent with BCA's emphasis on foundations. IDD is not a procurement exercise in which a client buys a platform; it changes when work is done, who is responsible for which information, and how much planning has to happen before construction starts.
+
 ## See Also
 
 - [Built Environment Industry Transformation Map (ITM)](built-environment-industry-transformation-map.md) — the policy framework that identifies IDD as a key thrust.
 - [Smart Facilities Management: Integrated, Aggregated and Smart FM](smart-facilities-management.md) — how digital delivery data and integrated systems carry into building operations.
 - [AI in the Built Environment](ai-in-the-built-environment.md) — BCA's AI use cases, several of which build directly on BIM and project data.
 - [AI Adoption and Governance in the Built Environment](ai-adoption-in-the-built-environment.md) — the data, skills and governance barriers that also constrain IDD adoption.
+- [Data Readiness for AI in Construction](data-readiness-for-ai-in-construction.md) — why siloed, inconsistent project data undermines both IDD and AI.
+- [Quantified AI Benefits in the Built Environment](quantified-ai-benefits-five-use-cases.md) — the measured savings IDD-enabled workflows and CORENET X have produced, including Tiong Seng's 5,000-hour project saving.
+- [Digital Twin and AI-Enabled Predictive Maintenance in the Building Industry](digital-twin-predictive-maintenance.md) — how BIM models and IoT data become the integration layer for building maintenance.

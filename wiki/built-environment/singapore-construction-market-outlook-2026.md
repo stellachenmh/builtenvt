@@ -152,3 +152,4 @@ The report argues that productivity is essential given the gap between demand an
 - [Construction and Materials: CEO Priorities and Decarbonisation Levers](construction-materials-ceo-priorities.md) — cost, skills and decarbonisation pressures on construction firms.
 - [Integrated Digital Delivery (IDD)](integrated-digital-delivery.md) — digital delivery as part of the productivity response to labour and cost pressure.
 - [AI in the Built Environment](ai-in-the-built-environment.md) — AI use cases behind the report's call to accelerate AI and digitalisation.
+- [AI Adoption and Governance in the Built Environment](ai-adoption-in-the-built-environment.md) — the investment case for AI against a 2026 demand forecast of $47b to $53b, and the cost of delay.
